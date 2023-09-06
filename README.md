@@ -15,6 +15,7 @@ My grandparents' house was one of my **favorite** childhood haunts, and it makes
 * Prawns fry
 * Crab
 
+[MyStats Link](https://github.com/s556143/my2-Valavala/blob/main/MyStats.md)
 
 
 
