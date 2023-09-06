@@ -16,4 +16,12 @@ The table consists of sport names and their benefits and avaerage of hours spent
 | Badminton | Improves flexibility | 5 |
 | Hockey | Builds teamwork | 7 |
 
+---
+
+# pithy Quotes
+
+```The only source of knowledge is experience.``` - *Albert Einstein*
+
+```The only limit to our realization of tomorrow will be our doubts of today.``` - *Franklin D. Roosevelt*
+
 
