@@ -24,4 +24,43 @@ The table consists of sport names and their benefits and avaerage of hours spent
 
 ```The only limit to our realization of tomorrow will be our doubts of today.``` - *Franklin D. Roosevelt*
 
+---
 
+# Code fencing
+
+```Is it good to put a &nbsp; inside an empty <td>?``` <https://stackoverflow.com/questions/2506342/is-it-good-to-put-a-nbsp-inside-an-empty-td>
+
+```
+<table>
+	<thead>
+		<tr>
+			<th></th>
+			<th></th>
+			<th></th>
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</tbody>
+</table>
+```
+ 
+Sniper Link <https://css-tricks.com/snippets/html/empty-table-markup/>
